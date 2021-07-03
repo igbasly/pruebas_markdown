@@ -74,10 +74,10 @@ Quas cumque incidunt at dicta voluptatibus laudantium velit itaque tempore odit 
 
 ### Necessitatibus praesentium officia doloribus omnis dolorum
 
-[x] Expedita laudantium labore necessitatibus dicta
-[x] Soluta natus mollitia animi
+[X] Expedita laudantium labore necessitatibus dicta
+[X] Soluta natus mollitia animi
 [ ] Quidem ullam exercitationem accusamus excepturi
-[x] Fuga soluta
+[X] Fuga soluta
 [ ] Veritatis repellendus tempore
 
 | **Doloribus** | **Excepturi** | **Laudantium ad** | **Veniam amet aut doloremque** | **Temporibus cum officia** | **Nulla impedit vitae odit** | **Reiciendis maxime illum quae** | **Mollitia corrupti inventore** | **Quidem** |
